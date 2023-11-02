@@ -10,4 +10,5 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Progress bar</string>
     <string name="menu_slideshow">Date Picker</string>
+    <string name="text_on_click">HELLO CUTIE!</string>
 </resources>
